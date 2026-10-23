@@ -1,0 +1,17 @@
+{
+  "name": "event-ticket-booking-system",
+  "version": "1.0.0",
+  "description": "2026 capstane project",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "demo": "node scripts/demo.js",
+    "benchmark": "node scripts/benchmark-lookup.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
